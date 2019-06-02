@@ -115,8 +115,7 @@ p{
 <code>
 @media screen and (max-width: 481px){
   body{
-    padding: 20px;
-    margin: 0;
+    margin: 0% 10% 0% 10%;
     color: #555;
     font-family: 'Montserrat', sans-serif;
   }
